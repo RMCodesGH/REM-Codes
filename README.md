@@ -1,4 +1,7 @@
 # Hi. I'm REM.
+
+SUB TO THE GADGETSMITH!!!
+
 I am a programmer. I program primarily in Java, Python, and C#.
 
 I have been programming since I was 7.
