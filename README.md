@@ -1,11 +1,10 @@
 # Hi. I'm REM.
 
-I am a programmer. I program primarily in Java, Python, Kotlin, and C#.
+I am a programmer and 3D modeler. I program primarily in Java, Python, Kotlin, and C#.
 
-I have been programming since I was 7.
+I use [Blender](Blender.org) to model in 3D. 
 
-I am a part of Atomic Robotics, an FTC team that builds competitive robots to solve problems
-and complete challenges.
+I also run a [youtube channel]() where I compete in 3D challenges, teach you how to model, and create comedy content.
 
 ##### <h3>Statistics: </h3>
 ![profile visit](https://komarev.com/ghpvc/?username=REM-Codes) [![Repos Badge](https://badges.pufler.dev/repos/REM-Codes)](https://badges.pufler.dev)
