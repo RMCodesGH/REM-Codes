@@ -9,7 +9,7 @@ I also run a [youtube channel]() where I compete in 3D challenges, teach you how
 ##### <h3>Statistics: </h3>
 ![profile visit](https://komarev.com/ghpvc/?username=REM-Codes) [![Repos Badge](https://badges.pufler.dev/repos/REM-Codes)](https://badges.pufler.dev)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=REM-Codes&" alt="REMCodes" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=REM-Codes&title_color=ffffff&text_color=c9cacc&bg_color=1d1f21" alt="REMCodes" /></p>
 
 <p>
 <a href="https://github.com/REM-Codes/REM-Codes">
