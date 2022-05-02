@@ -13,7 +13,7 @@ I also run a [youtube channel]() where I compete in 3D challenges, teach you how
 
 <p>
 <a href="https://github.com/REM-Codes/REM-Codes">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=REM-Codes&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=REM-Codes&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a></p>
 
 <p>
