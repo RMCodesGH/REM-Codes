@@ -2,7 +2,7 @@
 
 I am a 14-year-old programmer. I specialize in C#. I am the lead programmer with 3805 Atomic Robotics.
 
-I also run a [youtube channel](https://www.youtube.com/channel/UCI0LSkvuG4H6FS8aEUVs-cQ) where I compete in 3D challenges, teach you how to model, and create comedy content.
+I also run a [youtube channel](https://www.youtube.com/channel/UCI0LSkvuG4H6FS8aEUVs-cQ). So far, I have only posted 3D modeling content, but I am currently working on a series of videos for my [blackjack](https://github.com/REM-Codes/Blackjack) and [tic-tac-toe](https://github.com/REM-Codes/ConsoleTicTacToe) games. 
 
 ##### <h3>Statistics: </h3>
 ![profile visit](https://komarev.com/ghpvc/?username=REM-Codes) [![Repos Badge](https://badges.pufler.dev/repos/REM-Codes)](https://badges.pufler.dev)
