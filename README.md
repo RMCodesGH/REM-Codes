@@ -2,6 +2,8 @@
 
 I am a 14-year-old programmer. I specialize in C#. I am the lead programmer with 3805 Atomic Robotics.
 
+I've been programming since 2017 (this account is my second one, the other one is now private)
+
 ##### <h3>Statistics: </h3>
 ![profile visit](https://komarev.com/ghpvc/?username=REM-Codes) [![Repos Badge](https://badges.pufler.dev/repos/REM-Codes)](https://badges.pufler.dev)
 
