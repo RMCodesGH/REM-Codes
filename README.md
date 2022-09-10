@@ -7,9 +7,9 @@ I am a 14-year-old programmer. I specialize in C#. I am the lead programmer for 
 I've been programming since 2017, and using C# since December 31st, 2021.
 
 ##### <h3>Current Projects:</h3>
-[Recurse](https://github.com/REM-Codes/Recurse), an open source, lightweight, and simplistic text editor.
-
 [CFLib](https://github.com/AtomicRobotics3805/CFLib), an open source FTC command library.
+
+[Recurse](https://github.com/REM-Codes/Recurse), an open source, lightweight, and simplistic text editor.
 
 [Rift](https://github.com/RiftEngine/Rift), a game engine used to create text-based games.
 
