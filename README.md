@@ -11,7 +11,7 @@ I've been programming since 2017, and using C# since December 31st, 2021.
 
 [Recurse](https://github.com/REM-Codes/Recurse), an open source, lightweight, and simplistic text editor.
 
-[Rift](https://github.com/RiftEngine/Rift), a game engine used to create text-based games.
+[ModernRift Engine](https://github.com/RiftEngine/ModernRiftCore), a game engine used to create text-based games.
 
 ##### <h3>Statistics: </h3>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=REM-Codes&theme=dark&date_format=M%20j%5B%2C%20Y%5D&border=FFFFFF&stroke=C9CACC&fire=CC0000&sideNums=C9CACC&currStreakNum=C9CACC&ring=CC0000&background=1D1F21&currStreakLabel=AA1C1C&sideLabels=C9CACC&dates=C9CACC)](https://git.io/streak-stats)
