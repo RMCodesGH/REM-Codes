@@ -1,7 +1,5 @@
 # Hi. I'm REM.
 
-[![Subscribe](https://img.shields.io/badge/Youtube-Subscribe-red?style=for-the-badge)](https://www.youtube.com/channel/UCI0LSkvuG4H6FS8aEUVs-cQ?sub_confirmation=1)
-
 I am a 15-year-old programmer. I specialize in C# and Kotlin. I am the lead programmer for 3805 Atomic Robotics (https://github.com/AtomicRobotics3805/)
 
 I've been programming since 2017, and using C# since December 31st, 2021.
