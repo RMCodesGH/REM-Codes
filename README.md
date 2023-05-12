@@ -7,7 +7,7 @@ I am a 15-year-old programmer. I specialize in C# and Kotlin. I am the lead prog
 I've been programming since 2017, and using C# since December 31st, 2021.
 
 ##### <h3>Current Projects:</h3>
-[CFLib](https://github.com/AtomicRobotics3805/CFLib), an open source FTC command library. (Note: development is temporarily held while we figure out our competition code)
+[CFLib](https://github.com/AtomicRobotics3805/CFLib), an open source FTC command library. (Note: CFLib is still in heavy development)
 
 [Recurse](https://github.com/REM-Codes/Recurse), an open source, lightweight, and simplistic text editor.
 
