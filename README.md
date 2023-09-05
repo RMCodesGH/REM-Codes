@@ -1,20 +1,20 @@
-# Hi. I'm REM.
+# Hi. I'm Rowan McAlpin
 
-I am a 15-year-old programmer. I specialize in C# and Kotlin. I am the lead programmer for 3805 Atomic Robotics (https://github.com/AtomicRobotics3805/)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&vCenter=true&width=435&height=40&lines=Hi+there!+I'm+Rowan+McAlpin.;I'm+a+15-year-old+developer.;I+primarily+use+C%23+and+Kotlin.)](https://github.com/rowan-mcalpin/rowan-mcalpin)
+
+I'm a 15 year old programmer. I am in charge of software for 3805 Atomic Robotics (https://github.com/AtomicRobotics3805/), a [FIRST Tech Challenge](https://firstinspires.org) (external link) team from Edmonds, Washington.
 
 I've been programming since 2017, and using C# since December 31st, 2021.
 
-##### <h3>Current Projects:</h3>
-[CFLib](https://github.com/AtomicRobotics3805/CFLib), an open source FTC command library. (Note: CFLib is still in heavy development)
+## Current Projects
+Currently, I am revisiting JavaScript while I wait for the FIRST Tech Challenge season to begin, then I'll be working (nearly) constantly on programming robots.
 
-[Recurse](https://github.com/REM-Codes/Recurse), an open source, lightweight, and simplistic text editor.
+Here are a few of my ongoing projects.
 
-[ModernRift Engine](https://github.com/RiftEngine/ModernRiftCore), a game engine used to create text-based games.
+### **[CFLib](https://github.com/AtomicRobotics3805/CFLib)** (Kotlin)
 
-##### <h3>Statistics: </h3>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rowan-mcalpin&theme=dark&date_format=M%20j%5B%2C%20Y%5D&border=FFFFFF&stroke=C9CACC&fire=CC0000&sideNums=C9CACC&currStreakNum=C9CACC&ring=CC0000&background=1D1F21&currStreakLabel=AA1C1C&sideLabels=C9CACC&dates=C9CACC)](https://git.io/streak-stats)
+CFLib is a library for FTC that Atomic Robotics created over the course of 2 years, during the 2021-2022 and 2022-2023 seasons.
 
-<p>
-<a href="https://github.com/rowan-mcalpin/rowan-mcalpin">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rowan-mcalpin&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=4" />
-</a></p>
+### **[ModernRift Game Engine](https://github.com/RiftEngine/ModernRiftCore)** (C#)
+
+When I realized I couldn't (or wouldn't) make good video games, I decided to take a step up the technology heirarchy and build a game engine from scratch. ModernRift is the result of 3 different iterations all based around a similar concept of commands, snippets of code that can be executed at different times. ModernRift runs in the terminal, since it is used to make text-based games.
