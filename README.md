@@ -7,7 +7,7 @@ I'm a 15 year old programmer. I am in charge of software for 3805 Atomic Robotic
 I've been programming since 2017, and using C# since December 31st, 2021.
 
 ## Current Projects
-Currently, I am revisiting JavaScript while I wait for the FIRST Tech Challenge season to begin, then I'll be working (nearly) constantly on programming robots.
+Currently, I am in the heat of the FIRST Tech Challenge season so I am spending a large amount of my time programming my team's robot.
 
 Here are a few of my ongoing projects.
 
