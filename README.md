@@ -4,15 +4,9 @@
 
 I'm a 16 year old programmer. I am the software lead for [3805 Atomic Robotics](https://github.com/AtomicRobotics3805/), a [FIRST Tech Challenge](https://firstinspires.org) (external link) team from Edmonds, Washington.
 
-## Current Projects
-Currently, I am in the heat of the FIRST Tech Challenge season so I am spending a large amount of my time programming my team's robot.
+## Proof I am Me
+[Keybase](https://keybase.io/rowanmcalpin)
 
-Here are a few of my ongoing projects.
+[Website](https://rowanmcalpin.com/)
 
-### **[CFLib](https://github.com/AtomicRobotics3805/CFLib)** (Kotlin)
-
-CFLib is a library for FTC that Atomic Robotics created over the course of 2 years, during the 2021-2022 and 2022-2023 seasons.
-
-### **[ModernRift Game Engine](https://github.com/RiftEngine/ModernRiftCore)** (C#)
-
-When I realized I couldn't (or wouldn't) make good video games, I decided to take a step up the technology heirarchy and build a game engine from scratch. ModernRift is the result of 3 different iterations all based around a similar concept of commands, snippets of code that can be executed at different times. ModernRift runs in the terminal, since it is used to make text-based games.
+[GitHub](https://gist.github.com/rowan-mcalpin/96445d38f89c711a7c07052e1c8df6d8)
